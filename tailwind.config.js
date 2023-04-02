@@ -15,6 +15,9 @@ module.exports = {
       orange: '#F45B0B',
       grey: '#ECECEC',
       lightGrey: '#F5F7F9',
+    },
+    boxShadow: {
+      'md': '0 0 10px 1px rgba(0, 0, 0, 0.1)',
     }
   },
   plugins: [],
